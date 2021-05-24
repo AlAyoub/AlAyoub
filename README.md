@@ -3,7 +3,8 @@
 I’m from Los Angeles. I’m currently a junior software developer for a Top 100 company. I work out of the Pasadena location very close to Old Town Pasadena. My daily tasks range from application security, development, documentation, and keeping our applications current. I’m eager to learn, grow, and use my skills to communicate my creativity.
 
 ## Skills and Experience
-* ⚛️ React
+⚛️ React
+![image](https://user-images.githubusercontent.com/17221211/119290363-3e3b6080-bc01-11eb-8333-998a0af4ded9.png) NodeJS
 
 Skills: REACT / JS / ANGULAR / HTML / CSS
 
