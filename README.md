@@ -11,5 +11,5 @@ You can follow me on youtube @
 https://www.youtube.com/channel/UCzVU_2yU8QpyGPWG_LXW_8g
 
 [![Alan Ayoub’s GitHub stats](https://github-readme-stats.vercel.app/api?username=AlAyoub)](https://github.com/anuraghazra/github-readme-stats)
-![image](https://user-images.githubusercontent.com/17221211/119287616-a129f900-bbfb-11eb-83f4-5e39d4503868.png)
+![image]
 
