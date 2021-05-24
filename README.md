@@ -4,9 +4,8 @@ I’m from Los Angeles. I’m currently a junior software developer for a Top 10
 
 ## Skills and Experience
 ⚛️ React
-![image](https://user-images.githubusercontent.com/17221211/119290363-3e3b6080-bc01-11eb-8333-998a0af4ded9.png) NodeJS
+💻 HTML. CSS. JS
 
-Skills: REACT / JS / ANGULAR / HTML / CSS
 
 
 
