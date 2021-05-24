@@ -7,6 +7,7 @@ https://twitter.com/Alan__Ayoub.
 
 You can follow me on youtube @ https://www.youtube.com/channel/UCzVU_2yU8QpyGPWG_LXW_8g
 
-[[Alan Ayoub’s GitHub stats](https://github-readme-stats.vercel.app/api?username=AlAyoub)]
+[![Alan Ayoub's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlAyoub)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
